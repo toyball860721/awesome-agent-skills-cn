@@ -1,0 +1,23 @@
+{
+  "name": "awesome-agent-skills-cn",
+  "version": "1.0.0",
+  "description": "Awesome Agent Skills 中文指南 - 精选 AI Agent Skills 集合",
+  "keywords": [
+    "agent-skills",
+    "awesome",
+    "chinese",
+    "ai-agents",
+    "claude-code",
+    "codex"
+  ],
+  "author": "toyball <toyball860721@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toyball860721/awesome-agent-skills-cn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/toyball860721/awesome-agent-skills-cn/issues"
+  },
+  "homepage": "https://github.com/toyball860721/awesome-agent-skills-cn#readme"
+}
